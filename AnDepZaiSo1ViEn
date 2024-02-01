@@ -833,14 +833,14 @@ local NotiFrame = Instance.new("Frame")
  Name.TextSize = 16.000
  
  local Hub = Instance.new("TextLabel")
- Hub.Name = "Hub"
+ Hub.Name = "AnDepZai Hub"
  Hub.Parent = Top
  Hub.BackgroundColor3 = Color3.fromRGB(224,224,224)
  Hub.BackgroundTransparency = 1.000
  Hub.Position = UDim2.new(0, 78, 0, 0)
  Hub.Size = UDim2.new(0, 81, 0, 27)
  Hub.Font = Enum.Font.Code
- Hub.Text = "Hub"
+ Hub.Text = "AnHub"
  Hub.TextColor3 = Color3.fromRGB(255, 47, 172)
  Hub.TextSize = 16.000
 
@@ -4789,7 +4789,7 @@ local Misc = Library:Tab("Misc","rbxassetid://11447063791")
 local Setting = Library:Tab("Settings","rbxassetid://11446835336")
 --------------------------------------------------------------------
 
-Setting:Label("Hãy Cày Thuê")
+Setting:Label("Hãy Vào Discord")
 
 Setting:Line()
 
@@ -13374,7 +13374,7 @@ ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0.396834195, 0, 0.567307711, 0)
 ImageLabel.Size = UDim2.new(0, 107, 0, 82)
-ImageLabel.Image = "http://www.roblox.com/asset/?id=14487530170"
+ImageLabel.Image = "rbxassetid://16161818145"
 ImageLabel.ScaleType = Enum.ScaleType.Fit
 
 UICorner.CornerRadius = UDim.new(0, 15)
@@ -13387,7 +13387,7 @@ ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.6363343, 0, 0, 0)
 ImageButton.Size = UDim2.new(0, 26, 0, 25)
-ImageButton.Image = "rbxassetid://9545003266"
+ImageButton.Image = "rbxassetid://16161818145"
 
 UICorner_2.Parent = ImageButton
 
@@ -13846,7 +13846,7 @@ ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.564518332, 0, 0, 0)
 ImageButton.Size = UDim2.new(0, 26, 0, 25)
-ImageButton.Image = "rbxassetid://9545003266"
+ImageButton.Image = "rbxassetid://16161818145"
 
 UICorner_2.Parent = ImageButton
 
